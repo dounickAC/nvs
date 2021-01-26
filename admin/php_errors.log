@@ -1,0 +1,4 @@
+[24-Jan-2021 22:47:32 Asia/shanghai] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\inetpub\wwwroot\video\admin\login.php on line 4
+[25-Jan-2021 22:34:59 Asia/shanghai] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\inetpub\wwwroot\video\admin\login.php on line 4
+[25-Jan-2021 22:35:07 Asia/shanghai] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\inetpub\wwwroot\video\admin\login.php on line 4
+[25-Jan-2021 22:35:08 Asia/shanghai] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\inetpub\wwwroot\video\admin\login.php on line 4
